@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path name="music_files" path="music/" />
+    <files-path name="vision_files" path="vision/" />
+    <files-path name="diffusion_files" path="diffusion/" />
+    <files-path name="app_files" path="." />
+    <cache-path name="music_cache" path="music/" />
+    <cache-path name="vision_cache" path="vision/" />
+    <cache-path name="diffusion_cache" path="diffusion/" />
+    <external-files-path name="ext_music" path="music/" />
+    <external-files-path name="ext_vision" path="vision/" />
+    <external-files-path name="ext_diffusion" path="diffusion/" />
+</paths>

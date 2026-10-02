@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Swarm Core",
+  "description": "Multi-role edge LLM inference platform featuring Llama.cpp, MLC-LLM, Ollama, Kobold.cpp, C++ audio subsystems, ACE-Step neural music generation, real-time Vision Mode, and stable-diffusion.cpp Diffusion Studio supporting quantized models (txt2img, img2img, inpaint, outpaint, ControlNet, and neural upscaling).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
